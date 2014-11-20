@@ -1,0 +1,14 @@
+{
+    "require" : {
+        "php"                                   : ">=5.3.3",
+        "doctrine/orm"                          : "2.*",
+        "zendframework/zendframework"           : "2.*",
+        "zendframework/zend-developer-tools"    : "dev-master",
+        "phpunit/phpunit"                       : "4.*",       
+        "firephp/firephp-core"                  : "dev-master" ,
+        "phpunit/php-invoker"                   : "dev-master"
+    },
+    "name"          : "Books",
+    "description"   : "External libraries for Books webservice",
+    "license"       : "proprietary"      
+}
